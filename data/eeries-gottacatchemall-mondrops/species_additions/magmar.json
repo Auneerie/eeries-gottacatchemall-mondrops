@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:magmar",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "minecraft:blaze_rod",
+        "percentage": 50
+      }
+    ]
+  }
+}
