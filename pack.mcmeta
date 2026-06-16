@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Adds drops to cobblemon for a server with friends.",
+        "min_format": 88,
+        "max_format": 88
+    }
+}
