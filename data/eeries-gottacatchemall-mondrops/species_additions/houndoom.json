@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:houndoom",
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "minecraft:wither_skeleton_skull",
+        "percentage": 2.5
+      }
+    ]
+  }
+}
