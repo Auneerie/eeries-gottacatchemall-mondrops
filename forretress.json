@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:forretress",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:gunpowder",
+        "percentage": 25
+      }
+    ]
+  }
+}
