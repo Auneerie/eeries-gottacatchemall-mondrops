@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:beheeyem",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:shulker_shell",
+        "percentage": 50
+      }
+    ]
+  }
+}
