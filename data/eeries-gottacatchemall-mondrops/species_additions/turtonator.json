@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:turtonator",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:blaze_rod",
+        "percentage": 50
+      }
+    ]
+  }
+}
