@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:centiscorch",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:blaze_rod",
+        "percentage": 50
+      }
+    ]
+  }
+}
