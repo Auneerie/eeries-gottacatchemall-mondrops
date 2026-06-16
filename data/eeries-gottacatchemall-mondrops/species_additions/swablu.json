@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:swablu",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:wind_charge",
+        "percentage": 25
+      }
+    ]
+  }
+}
