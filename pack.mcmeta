@@ -1,6 +1,6 @@
 {
     "pack": {
-        "description": "Adds drops to cobblemon for a server with friends.",
+        "description": "Adds drops to cobblemon for a server with friends without vanilla mobs.",
         "min_format": 48,
         "max_format": 48
     }
