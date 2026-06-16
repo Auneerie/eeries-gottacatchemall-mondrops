@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:altaria",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:wind_charge",
+        "percentage": 25
+      }
+    ]
+  }
+}
